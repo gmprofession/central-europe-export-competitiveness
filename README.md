@@ -79,6 +79,10 @@ python report/build_report.py charts results.json report/Central_Europe_Trade_Re
 
 Excel (workbook, live formulas and charts), Python (pandas, matplotlib, openpyxl, reportlab) for cross-checks, charts and the report.
 
+
+## AI assistance
+
+I used Claude (Anthropic) as an AI assistant to write the Python and Excel build scripts, draft the report text and literature review, and produce the charts. I set the research question, hypotheses and pass/fail rules, downloaded the data, checked the numbers, and made the final decisions on interpretation.
 ## Limitations
 
 Descriptive, not causal; small non-independent sample; FDI distorted by pass-through capital (especially Hungary); exports/GDP measures trade intensity, not competitiveness; 2025 values may be revised. See section 6 of the report.
